@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TejaskandGS
 - 👀 I’m interested in FULL STACK DEVELOPMENT AND DSA 
-- 🌱 I’m currently learning C++ and PYTHON
+- 🌱 I’m currently learning JAVASCRIPT and PYTHON
 - 📫 How to reach me gstejas2004@gmail.com
 
 <!---
